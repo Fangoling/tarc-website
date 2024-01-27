@@ -43,8 +43,8 @@ export default function Home() {
             </div>
           </a>
         </div>
-        <div className="information-phone-number"></div>
       </div>
+      
       <div className="social-media-icons">
         <a href="https://instagram.com/tarc.fitness" target="_blank">
           <div className="instagram">
