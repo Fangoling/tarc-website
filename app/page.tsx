@@ -107,10 +107,7 @@ export default function Home() {
           </div>
         </a>
       </div>
-      <div className="legal-navigation">
-        <a href="/impressum.html">Impressum</a>
-        <a href="/datenschutz.html">Datenschutz</a>
-      </div>
+      
     </body>
   );
 }
