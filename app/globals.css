@@ -91,7 +91,7 @@ header {
 
 .header-video-container {
     width: 100vw;
-    height: 30rem;
+    height: 40rem;
     overflow: hidden;
     display: flex;
     align-items: center;
@@ -159,7 +159,7 @@ header {
         & > div {
             padding: 1rem 2rem;
             background-color: red;
-            font-family: "Fatfrank", serif;
+            font-family: Helvetica; 
             border-radius: 10px;
             height: 2.5rem;
             color: white;

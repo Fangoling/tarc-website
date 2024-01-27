@@ -32,46 +32,6 @@ export default function Home() {
             <img alt="Carffee" src="/logos/coming-soon.svg" />
           </div>
         </a>
-        <a className="square" href="" target="_blank">
-          <div className="grid-box coming-soon">
-            <img alt="Big Boost Burger" src="/logos/coming-soon.svg" />
-          </div>
-        </a>
-        <a className="square" href="" target="_blank">
-          <div className="grid-box coming-soon">
-            <img alt="JP Pace" src="/logos/coming-soon.svg" />
-          </div>
-        </a>
-        <a className="square" href="" target="_blank">
-          <div className="grid-box coming-soon">
-            <img alt="JP Clothing" src="/logos/coming-soon.svg" />
-          </div>
-        </a>
-        <a className="square" href="" target="_blank">
-          <div className="grid-box coming-soon">
-            <img alt="JP Superstore" src="/logos/coming-soon.svg" />
-          </div>
-        </a>
-        <a className="square" href="" target="_blank">
-          <div className="grid-box coming-soon">
-            <img alt="Time Attack" src="/logos/coming-soon.svg" />
-          </div>
-        </a>
-        <a className="square" href="" target="_blank">
-          <div className="grid-box coming-soon">
-            <img alt="JP Superstore" src="/logos/coming-soon.svg" />
-          </div>
-        </a>
-        <a className="square" href="" target="_blank">
-          <div className="grid-box coming-soon">
-            <img alt="JP Circle" src="/logos/coming-soon.svg" />
-          </div>
-        </a>
-        <a className="square" target="_blank">
-          <div className="grid-box coming-soon">
-            <img alt="Coming Soon" src="/logos/coming-soon.svg" />
-          </div>
-        </a>
       </div>
 
       <div className="information-flex-display">
@@ -86,24 +46,9 @@ export default function Home() {
         <div className="information-phone-number"></div>
       </div>
       <div className="social-media-icons">
-        <a href="" target="_blank">
-          <div className="facebook">
-            <img alt="Facebook" src="/icons/facebook-icon.svg" />
-          </div>
-        </a>
-        <a href="" target="_blank">
-          <div className="youtube">
-            <img alt="YouTube" src="/icons/youtube-icon.svg" />
-          </div>
-        </a>
         <a href="https://instagram.com/tarc.fitness" target="_blank">
           <div className="instagram">
             <img alt="Instagram" src="/icons/instagram-icon.svg" />
-          </div>
-        </a>
-        <a href="" target="_blank">
-          <div className="tiktok">
-            <img alt="TikTok" src="/icons/tiktok-icon.svg" />
           </div>
         </a>
       </div>
