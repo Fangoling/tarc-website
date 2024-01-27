@@ -3,7 +3,7 @@ export default function Home() {
   return (
     <body>
       <header>
-        <img alt="Tarc Fitness" src="" />
+        <img alt="" src="" />
       </header>
       <div className="header-video-container">
         <img alt="tarc logo" src="/logos/tarc-fitness-logo.png" />
